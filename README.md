@@ -29,13 +29,13 @@ Smart deduplication and cleanup workflow for macOS:
 ### Option 1: One-Line Install (推荐一行命令安装)
 
 ```bash
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/antigravity-skills.git /tmp/antigravity-skills && bash /tmp/antigravity-skills/install.sh && rm -rf /tmp/antigravity-skills
+git clone https://github.com/augustopus/antigravity-skills.git /tmp/antigravity-skills && bash /tmp/antigravity-skills/install.sh && rm -rf /tmp/antigravity-skills
 ```
 
 ### Option 2: Clone & Run Local Installer (克隆并运行安装脚本)
 
 ```bash
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/antigravity-skills.git
+git clone https://github.com/augustopus/antigravity-skills.git
 cd antigravity-skills
 chmod +x install.sh
 ./install.sh
